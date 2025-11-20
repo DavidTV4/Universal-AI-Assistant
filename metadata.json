@@ -1,0 +1,7 @@
+{
+  "name": "Universal AI Assistant",
+  "description": "A versatile AI assistant capable of generating high-quality images, writing clean code, and summarizing text using Gemini and Imagen models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
